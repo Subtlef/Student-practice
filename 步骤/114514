@@ -1,3 +1,0 @@
-$t = Read-Host "粘贴 token"
-git remote set-url origin "https://Subtlef:$t@github.com/Subtlef/Student-practice.git"
-git push -u origin main
